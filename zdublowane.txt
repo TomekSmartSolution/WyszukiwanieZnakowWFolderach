@@ -1,0 +1,95 @@
+C:\test\destination\F350\SH,F350,E,1019,13,01,02
+C:\test\destination\F350\SH,F350,E,1019,13,02,03
+C:\test\destination\F350\SH,F350,E,1038,01
+C:\test\destination\F350\SH,F350,E,1085,08,07,01
+C:\test\destination\F350\SH,F350,E,1085,12,21,03
+C:\test\destination\F350\SH,F350,E,1085,14,04,01
+C:\test\destination\F350\SH,F350,E,1085,14,05,01
+C:\test\destination\F350\SH,F350,E,1085,15,10,01
+C:\test\destination\F350\SH,F350,E,1085,18,10,A
+C:\test\destination\F350\SH,F350,E,1085,18,12,01,05
+C:\test\destination\F350\SH,F350,E,1188,02
+C:\test\destination\F350\SH,F350,E,1205,01
+C:\test\destination\F350\SH,F350,E,709,24,01
+C:\test\destination\F350\SH,F350,E,773,08,01
+C:\test\destination\F350\SH,F350,E,780,01,05,A
+C:\test\destination\F350\SH,F350,E,840,13,01
+C:\test\destination\F350\SH,F350,E,849,01
+C:\test\destination\F350\SH,F350,E,870,01
+C:\test\destination\F350\SH,F350,E,909,10,02,01
+C:\test\destination\F350\SH,F350,E,959,01
+C:\test\destination\F350\SH,F350,E,983,50,06,03
+C:\test\destination\F350\SH-F350\E,771,01,16,01
+C:\test\destination\F350\SH-F350-E-737-13-01-04\SH,F350,E,737,13,01,04,A
+C:\test\destination\F350\SH-F350-E-737-14-01-04\SH,F350,E,737,14,01,04,A
+C:\test\destination\F350\SH-F350-E-768-01\SH,F350,E771,02,04
+C:\test\destination\F350\SH-F350-E-771-06-01-D\SH,F350,E,771,07,02
+C:\test\destination\F401\SH,F401,E,163,02
+C:\test\destination\F401\SH,F401,E,170,13,06,02,01
+C:\test\destination\F406\SH,F406,E,069,00
+C:\test\destination\F408\SH,F408,E,135,01
+C:\test\destination\F409\SH,F409,E,041,01
+C:\test\destination\F411\SH,F411,E,012,04,01
+C:\test\destination\F411\SH,F411,E,014,01,98
+C:\test\destination\F411\SH,F411,E,017,01,03
+C:\test\destination\F411\SH,F411,E,018,01,03
+C:\test\destination\F411\SH-F411-E-016-99-02-01\MOD SH,F411,E,016,01,03
+C:\test\destination\F411\SH-F411-E-016-99-03-02\MOD SH,F411,E,016,01,02
+C:\test\destination\F487\SH,F487,E,033,06,08
+C:\test\destination\F487\SH,F487,E,053,01,11,01
+C:\test\destination\F489\SH,F489,E,083,04,00
+C:\test\destination\F489\SH,F489,E,100,04,05
+C:\test\destination\F489\SH,F489,E,106,05,19,01,A
+C:\test\destination\F489\SH,F489,E,107,06,06,01
+C:\test\destination\F489\SH-F489-E-079-07-05-06\SH,F489,E,079,17,15,01
+C:\test\destination\F489\SH-F489-E-079-09-35-01\SH,F,489,E,079,11,06,07,01
+C:\test\destination\F505\SH-F505-E-21-02-04\SH,F505,E,28,03,01
+C:\test\destination\F542\SH-F542,E,03,01
+C:\test\destination\F550\SH,F550,E,096,01,01
+C:\test\destination\F550\SH,F550,E,162,01
+C:\test\destination\F550\SH,F550,E,170,02,03
+C:\test\destination\F550\SH,F550,E,170,02,04
+C:\test\destination\F550\SH,F550,E,186,10,01
+C:\test\destination\F550\SH,F550,E,186,11,01
+C:\test\destination\F550\SH,F550,E,258,02
+C:\test\destination\F550\SH,F550,E,263,05,01,01
+C:\test\destination\F550\SH,F550,E,263,09,01
+C:\test\destination\F550\SH,F550,E,263,11,02,02
+C:\test\destination\F550\SH,F550,E,263,11.01,04
+C:\test\destination\F550\SH,F550,E,267,02,01
+C:\test\destination\F550\SH,F550,E,318,02,11,02
+C:\test\destination\F550\SH,F550,E,364,02,02
+C:\test\destination\F550\SH,F550,E,395,99
+C:\test\destination\F550\SH-F550-E-213-04-03\SH,F550,E,213,05,03
+C:\test\destination\F700\SH,F700,E,040,01
+C:\test\destination\F700\SH-F700-E-006-02-03\przygotowka szlif na 6,7
+C:\test\destination\F701\SH,F701,E,021,03
+C:\test\destination\F701\SH,F701,E,056,01
+C:\test\destination\F751\SH,F751,E,066,01
+C:\test\destination\F751\SH,F751,E,068,01
+C:\test\destination\F751\SH,F751,E,074,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\BAMET\BAMET,RYS,WG,476,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\BAMET\BAMET,RYS,WG,476,02
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\BAMET\RRD_ST_B_004,00
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\DONNELLEY\RRD,OM,B,219,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\CRM,01,03,04,03,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\CRM,01,05,01,09,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\KTC-00-03\KTC-00,03
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\KTU,17,06,28,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PM,B,DPHT,02,01,05,03,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PM,B,DPHT,03,01,05,02,02
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PM,PL,TWISTER,E,030,01,08
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PM,PRI,E,061,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PM,T&T,01,01,03,01,06,02
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PMPL,E,1157,02,11,02,A
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PMPL,E,1157,02,12,05,01,A
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PMPL,E,1258,02
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\PMPL,E,1321,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\SF,MAG,E,01,02,11
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\PHILIP MORIS\SH,GDNV,E,016,03,01,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\VALEO\CHLO\B,054,01,09
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\WHITE CAP\732C,6,1,12
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\WHITE CAP\WCP,CAM314,E,043,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\WHITE CAP\WCP,F3AM,E,024,01
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\WHITE CAP\WCP,HAAR,E,039,03
+C:\test\source\AVIA-1300-192-168-1-43-Backup-27-03-2023\WHITE CAP\WCP,LTG,E,085,02
